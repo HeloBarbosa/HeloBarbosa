@@ -4,8 +4,6 @@ Hey there 👋
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
-<!
-
 About me:
 
  🔭 I am a biomedical engineer with a deep fascination for AI and machine learning
