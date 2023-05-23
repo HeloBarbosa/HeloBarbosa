@@ -3,7 +3,9 @@ Hey there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
+
 ---
+
 :woman_technologist: About me:
 
  - 🔭 I am a biomedical engineer with a deep fascination for AI and machine learning
