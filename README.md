@@ -1,13 +1,10 @@
-
+Hey there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
-Hey there 👋
-
-<!--
-**HeloBarbosa/HeloBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!
 
 About me:
 
