@@ -3,8 +3,8 @@ Hey there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
-
-About me:
+---
+:woman_technologist: About me:
 
  - 🔭 I am a biomedical engineer with a deep fascination for AI and machine learning
  - 👾 As a hobby, I am currently engaged in a captivating endeavor: recreating a beloved 80's board game
