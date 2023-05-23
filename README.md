@@ -13,7 +13,7 @@ About me:
 
 ---
 
-:hammer_and_wrench: Languages and Tools :
+⚙️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,6 +28,8 @@ About me:
 </div>
 
 ---
+
+🚀 My Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=HeloBarbosa&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloBarbosa&layout=compact)
