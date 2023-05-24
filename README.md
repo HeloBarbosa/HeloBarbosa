@@ -42,4 +42,4 @@ About me:
 🚀 My Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=HeloBarbosa&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloBarbosa&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloBarbosa&layout=compact) 
