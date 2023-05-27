@@ -41,5 +41,5 @@ About me:
 
 🚀 My Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=HeloBarbosa&count_private=true&show_icons=true&theme=light)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeloBarbosa&theme=vision-friendly-light)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeloBarbosa&layout=compact&theme=vision-friendly-light) 
